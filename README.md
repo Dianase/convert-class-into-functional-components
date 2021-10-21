@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Comparing and converting class components
+
+Created a class components and converted into a functional component in fewer lines using hooks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
